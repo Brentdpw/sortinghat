@@ -1,0 +1,201 @@
+body{
+    background-image: url(../images/backgroundimg.jpg);
+}
+
+.vak{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #4449A5 ;
+    width: 900px;
+    height: 95vh;
+}
+
+
+/* index.php */
+.imgdiv{
+    text-align: center;
+    padding: 75px;
+    display: block;
+}
+
+#House_img{
+    margin-top: 20px;
+    width: 400px;
+    height: auto;
+}
+
+nav{
+    text-align: center;
+}
+
+nav .nav1{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 50px;
+    border-radius: 7px;
+    width: 225px;
+    display: inline-block;
+    background-color: #4449A5;
+    font-size: 20px;
+    color: white;
+    padding: 30px 50px;
+}
+
+nav .nav1:hover{
+    color: purple;
+}
+
+.labelsize{
+    font-size: 20px;
+    color: white;
+}
+
+.logindiv{
+    text-align: center;
+    display: block;
+}
+
+#hat_img{
+    width: 175px;
+    height: auto;
+}
+
+.Create_account_button {
+    background-color: #4449A5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+.login_h1{
+    color: white;
+}
+.Create_account_button:hover{
+
+    color: purple;
+}
+
+
+
+.housesvak{
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+    
+}
+
+
+.house_image{
+    width: 200px;
+    height: auto;
+}
+
+#slytherin_img{
+height: 246px;
+}
+#ravenclaw_img{
+    height: 246px;
+}
+
+.padding_house{
+    padding: 40px 10px;
+}
+
+.house_button {
+    background-color: #4449A5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 7px;
+  }
+
+.house_button:hover{
+
+    color: purple;
+}
+
+.houses_h1{
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.tablestyle{
+    margin-top: 20px;
+}
+
+table{
+    width: 100%;
+}
+
+th, td{
+    border: 1px solid purple;
+    padding: 15px;
+    text-align: center;
+}
+
+th{
+    font-size: 25px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.3);
+}
+
+td{
+    font-size: 18px;
+    color: white;
+}
+
+.house_image_form{
+    width: auto;
+    height: 120px;
+}
+
+.score_h1{
+    padding: 6px;
+    text-align: center;
+    color: white;
+}
+
+nav .nav2{
+    margin-top: 5px;
+    border-radius: 7px;
+    width: 225px;
+    display: inline-block;
+    background-color: #4449A5;
+    font-size: 20px;
+    color: white;
+    padding: 40px 50px;
+}
+
+nav .nav2:hover{
+    color: purple;
+}
+
+.h1_created{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.created_style{
+    text-align: center;
+
+}
+
+#gif{
+    padding: 20px;
+    width: 850px;
+    height: auto;
+}
